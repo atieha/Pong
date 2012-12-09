@@ -1,4 +1,6 @@
 
+// Simple Pong game made in Java.
+// Author: Ahmed Atieh
 import java.awt.Canvas;
 import javax.swing.JFrame;
 import java.awt.event.KeyListener;
